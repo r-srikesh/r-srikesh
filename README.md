@@ -1,3 +1,3 @@
-### Hi there 👋
+###Hello, I am R.Srikesh.Nice to meet you 👋
 
-It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
+I am a Undergrad at [Amrita Vishwa Vidyapeetham,Amritapuri] (https://www.amrita.edu/campus/amritapuri)
